@@ -16,7 +16,7 @@
 ---
 
 ## 🖼️ Screenshots
-<img width="1408" height="2974" alt="Screenshot_20250714_225411" src="https://github.com/user-attachments/assets/6f60cf21-067b-4800-8ec4-15165b587b04" />
+<img width="400" height="800" alt="Screenshot_20250714_225411" src="https://github.com/user-attachments/assets/6f60cf21-067b-4800-8ec4-15165b587b04" />
 ---
 
 ## 📦 Tech Stack
