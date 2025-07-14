@@ -1,16 +1,34 @@
-# todo
+# 📋 FocusList
 
-A new Flutter project.
+**FocusList** is a minimal, pastel-themed to-do list app built with Flutter and Realm. It helps you organize tasks and stay productive with a clean interface and fast performance.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Add, toggle, and delete tasks
+- 🎨 Soft pastel tile backgrounds (rotated per item)
+- ➕ Add tasks via a popup using FAB
+- ✅ Local persistence using Realm
+- 🧠 MVVM architecture with Provider
+- 🧪 Unit tested with mock services
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+_Add screenshots here (optional)_
+
+---
+
+## 📦 Tech Stack
+
+| Layer         | Technology       |
+|---------------|------------------|
+| UI            | Flutter          |
+| State Mgmt    | Provider          |
+| Architecture  | MVVM              |
+| Storage       | Realm DB          |
+| Testing       | flutter_test, mockito |
+
+---
