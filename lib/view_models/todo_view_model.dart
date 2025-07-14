@@ -5,12 +5,13 @@ import '../services/todo_service.dart';
 
 class TodoViewModel extends ChangeNotifier {
 
-  final TodoService _todoService = TodoService();
+  final TodoService _todoService;
+
   List<Todo> _todos =[];
 
   List<Todo> get todos => _todos;
 
-  TodoViewModel(){
+  TodoViewModel(this._todoService){
     loadTodos();
   }
 
